@@ -1,0 +1,7 @@
+.c-paginate{
+    width: 100%;
+}
+
+.c-paginate ul li{
+    padding: 10px !important;
+}
